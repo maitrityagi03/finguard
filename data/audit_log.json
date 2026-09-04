@@ -1,0 +1,3202 @@
+[
+    {
+        "timestamp": "2026-09-05T04:25:14.064567",
+        "scenario_id": 1,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064617",
+        "scenario_id": 2,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064629",
+        "scenario_id": 3,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064637",
+        "scenario_id": 4,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064647",
+        "scenario_id": 5,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 5,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064653",
+        "scenario_id": 6,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064659",
+        "scenario_id": 7,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064665",
+        "scenario_id": 8,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064670",
+        "scenario_id": 9,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064676",
+        "scenario_id": 10,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064681",
+        "scenario_id": 11,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064687",
+        "scenario_id": 12,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064694",
+        "scenario_id": 13,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064700",
+        "scenario_id": 14,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064706",
+        "scenario_id": 15,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064713",
+        "scenario_id": 16,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064719",
+        "scenario_id": 17,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064724",
+        "scenario_id": 18,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064730",
+        "scenario_id": 19,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064737",
+        "scenario_id": 20,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064742",
+        "scenario_id": 21,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064748",
+        "scenario_id": 22,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064753",
+        "scenario_id": 23,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064759",
+        "scenario_id": 24,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064764",
+        "scenario_id": 25,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064771",
+        "scenario_id": 26,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064777",
+        "scenario_id": 27,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064782",
+        "scenario_id": 28,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064788",
+        "scenario_id": 29,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064794",
+        "scenario_id": 30,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064801",
+        "scenario_id": 31,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064807",
+        "scenario_id": 32,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064813",
+        "scenario_id": 33,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064819",
+        "scenario_id": 34,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064825",
+        "scenario_id": 35,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064831",
+        "scenario_id": 36,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064837",
+        "scenario_id": 37,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064843",
+        "scenario_id": 38,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064850",
+        "scenario_id": 39,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064856",
+        "scenario_id": 40,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064863",
+        "scenario_id": 41,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064870",
+        "scenario_id": 42,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064876",
+        "scenario_id": 43,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064882",
+        "scenario_id": 44,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064888",
+        "scenario_id": 45,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064894",
+        "scenario_id": 46,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064901",
+        "scenario_id": 47,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064907",
+        "scenario_id": 48,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064914",
+        "scenario_id": 49,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064920",
+        "scenario_id": 50,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064927",
+        "scenario_id": 51,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064933",
+        "scenario_id": 52,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064940",
+        "scenario_id": 53,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064947",
+        "scenario_id": 54,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064954",
+        "scenario_id": 55,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 5,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064962",
+        "scenario_id": 56,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064969",
+        "scenario_id": 57,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064976",
+        "scenario_id": 58,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064984",
+        "scenario_id": 59,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064991",
+        "scenario_id": 60,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.064997",
+        "scenario_id": 61,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065004",
+        "scenario_id": 62,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065011",
+        "scenario_id": 63,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065018",
+        "scenario_id": 64,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065025",
+        "scenario_id": 65,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065032",
+        "scenario_id": 66,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065039",
+        "scenario_id": 67,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065046",
+        "scenario_id": 68,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065053",
+        "scenario_id": 69,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065060",
+        "scenario_id": 70,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065067",
+        "scenario_id": 71,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065075",
+        "scenario_id": 72,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065083",
+        "scenario_id": 73,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065090",
+        "scenario_id": 74,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065098",
+        "scenario_id": 75,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065105",
+        "scenario_id": 76,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065113",
+        "scenario_id": 77,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065121",
+        "scenario_id": 78,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065129",
+        "scenario_id": 79,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065136",
+        "scenario_id": 80,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065144",
+        "scenario_id": 81,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065151",
+        "scenario_id": 82,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065159",
+        "scenario_id": 83,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065166",
+        "scenario_id": 84,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065174",
+        "scenario_id": 85,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065182",
+        "scenario_id": 86,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065189",
+        "scenario_id": 87,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065200",
+        "scenario_id": 88,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065206",
+        "scenario_id": 89,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065212",
+        "scenario_id": 90,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065217",
+        "scenario_id": 91,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065223",
+        "scenario_id": 92,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065229",
+        "scenario_id": 93,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065236",
+        "scenario_id": 94,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065242",
+        "scenario_id": 95,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065248",
+        "scenario_id": 96,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065254",
+        "scenario_id": 97,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065260",
+        "scenario_id": 98,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065267",
+        "scenario_id": 99,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065273",
+        "scenario_id": 100,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065279",
+        "scenario_id": 101,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065285",
+        "scenario_id": 102,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065292",
+        "scenario_id": 103,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065298",
+        "scenario_id": 104,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065305",
+        "scenario_id": 105,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 5,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065312",
+        "scenario_id": 106,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065318",
+        "scenario_id": 107,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065325",
+        "scenario_id": 108,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065332",
+        "scenario_id": 109,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065339",
+        "scenario_id": 110,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065345",
+        "scenario_id": 111,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065352",
+        "scenario_id": 112,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065358",
+        "scenario_id": 113,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065364",
+        "scenario_id": 114,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065371",
+        "scenario_id": 115,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065378",
+        "scenario_id": 116,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065385",
+        "scenario_id": 117,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065391",
+        "scenario_id": 118,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065398",
+        "scenario_id": 119,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065405",
+        "scenario_id": 120,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065412",
+        "scenario_id": 121,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065418",
+        "scenario_id": 122,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065425",
+        "scenario_id": 123,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065431",
+        "scenario_id": 124,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065438",
+        "scenario_id": 125,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065445",
+        "scenario_id": 126,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065452",
+        "scenario_id": 127,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 5,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065459",
+        "scenario_id": 128,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065466",
+        "scenario_id": 129,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065473",
+        "scenario_id": 130,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065480",
+        "scenario_id": 131,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065487",
+        "scenario_id": 132,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065494",
+        "scenario_id": 133,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065501",
+        "scenario_id": 134,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065508",
+        "scenario_id": 135,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065515",
+        "scenario_id": 136,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065523",
+        "scenario_id": 137,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 5,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065530",
+        "scenario_id": 138,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065537",
+        "scenario_id": 139,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065545",
+        "scenario_id": 140,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065552",
+        "scenario_id": 141,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065559",
+        "scenario_id": 142,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065566",
+        "scenario_id": 143,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065574",
+        "scenario_id": 144,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065581",
+        "scenario_id": 145,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065588",
+        "scenario_id": 146,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065595",
+        "scenario_id": 147,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065602",
+        "scenario_id": 148,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065610",
+        "scenario_id": 149,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065618",
+        "scenario_id": 150,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065625",
+        "scenario_id": 151,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065632",
+        "scenario_id": 152,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065640",
+        "scenario_id": 153,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065647",
+        "scenario_id": 154,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 5,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065655",
+        "scenario_id": 155,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065667",
+        "scenario_id": 156,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 10,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065675",
+        "scenario_id": 157,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065683",
+        "scenario_id": 158,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065691",
+        "scenario_id": 159,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065699",
+        "scenario_id": 160,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065706",
+        "scenario_id": 161,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065714",
+        "scenario_id": 162,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065722",
+        "scenario_id": 163,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065729",
+        "scenario_id": 164,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065737",
+        "scenario_id": 165,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065745",
+        "scenario_id": 166,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065752",
+        "scenario_id": 167,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065760",
+        "scenario_id": 168,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065769",
+        "scenario_id": 169,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065777",
+        "scenario_id": 170,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065785",
+        "scenario_id": 171,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065793",
+        "scenario_id": 172,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065801",
+        "scenario_id": 173,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065809",
+        "scenario_id": 174,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065817",
+        "scenario_id": 175,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065827",
+        "scenario_id": 176,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065835",
+        "scenario_id": 177,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065843",
+        "scenario_id": 178,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065851",
+        "scenario_id": 179,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065859",
+        "scenario_id": 180,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065867",
+        "scenario_id": 181,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065875",
+        "scenario_id": 182,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065883",
+        "scenario_id": 183,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065891",
+        "scenario_id": 184,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065899",
+        "scenario_id": 185,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065907",
+        "scenario_id": 186,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065915",
+        "scenario_id": 187,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065924",
+        "scenario_id": 188,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065932",
+        "scenario_id": 189,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065940",
+        "scenario_id": 190,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065948",
+        "scenario_id": 191,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065957",
+        "scenario_id": 192,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065965",
+        "scenario_id": 193,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065974",
+        "scenario_id": 194,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065986",
+        "scenario_id": 195,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.065994",
+        "scenario_id": 196,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066002",
+        "scenario_id": 197,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066011",
+        "scenario_id": 198,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066019",
+        "scenario_id": 199,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066027",
+        "scenario_id": 200,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066038",
+        "scenario_id": 201,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066048",
+        "scenario_id": 202,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066057",
+        "scenario_id": 203,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066065",
+        "scenario_id": 204,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066074",
+        "scenario_id": 205,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066083",
+        "scenario_id": 206,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 5,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066091",
+        "scenario_id": 207,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066100",
+        "scenario_id": 208,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066110",
+        "scenario_id": 209,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066119",
+        "scenario_id": 210,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066128",
+        "scenario_id": 211,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066136",
+        "scenario_id": 212,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066145",
+        "scenario_id": 213,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066154",
+        "scenario_id": 214,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066164",
+        "scenario_id": 215,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066173",
+        "scenario_id": 216,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066182",
+        "scenario_id": 217,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 5,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066191",
+        "scenario_id": 218,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066200",
+        "scenario_id": 219,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066209",
+        "scenario_id": 220,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066218",
+        "scenario_id": 221,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066227",
+        "scenario_id": 222,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066236",
+        "scenario_id": 223,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066246",
+        "scenario_id": 224,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066255",
+        "scenario_id": 225,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066264",
+        "scenario_id": 226,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066273",
+        "scenario_id": 227,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066283",
+        "scenario_id": 228,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066292",
+        "scenario_id": 229,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066308",
+        "scenario_id": 230,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066318",
+        "scenario_id": 231,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066330",
+        "scenario_id": 232,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066340",
+        "scenario_id": 233,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066351",
+        "scenario_id": 234,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066360",
+        "scenario_id": 235,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066369",
+        "scenario_id": 236,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066379",
+        "scenario_id": 237,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066388",
+        "scenario_id": 238,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066398",
+        "scenario_id": 239,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066407",
+        "scenario_id": 240,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066417",
+        "scenario_id": 241,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066426",
+        "scenario_id": 242,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066435",
+        "scenario_id": 243,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066445",
+        "scenario_id": 244,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066454",
+        "scenario_id": 245,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066464",
+        "scenario_id": 246,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066473",
+        "scenario_id": 247,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066483",
+        "scenario_id": 248,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066493",
+        "scenario_id": 249,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066502",
+        "scenario_id": 250,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066512",
+        "scenario_id": 251,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066522",
+        "scenario_id": 252,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066532",
+        "scenario_id": 253,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066544",
+        "scenario_id": 254,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066554",
+        "scenario_id": 255,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066564",
+        "scenario_id": 256,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066574",
+        "scenario_id": 257,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066585",
+        "scenario_id": 258,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066595",
+        "scenario_id": 259,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066608",
+        "scenario_id": 260,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066618",
+        "scenario_id": 261,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066628",
+        "scenario_id": 262,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066638",
+        "scenario_id": 263,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066650",
+        "scenario_id": 264,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066661",
+        "scenario_id": 265,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066671",
+        "scenario_id": 266,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066682",
+        "scenario_id": 267,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066693",
+        "scenario_id": 268,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066705",
+        "scenario_id": 269,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066717",
+        "scenario_id": 270,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066728",
+        "scenario_id": 271,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 5,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066738",
+        "scenario_id": 272,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 5,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066749",
+        "scenario_id": 273,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066760",
+        "scenario_id": 274,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066770",
+        "scenario_id": 275,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066781",
+        "scenario_id": 276,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066792",
+        "scenario_id": 277,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066802",
+        "scenario_id": 278,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066813",
+        "scenario_id": 279,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066823",
+        "scenario_id": 280,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066834",
+        "scenario_id": 281,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066844",
+        "scenario_id": 282,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066855",
+        "scenario_id": 283,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066865",
+        "scenario_id": 284,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066876",
+        "scenario_id": 285,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066887",
+        "scenario_id": 286,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066897",
+        "scenario_id": 287,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066908",
+        "scenario_id": 288,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066919",
+        "scenario_id": 289,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066930",
+        "scenario_id": 290,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066941",
+        "scenario_id": 291,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066952",
+        "scenario_id": 292,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066964",
+        "scenario_id": 293,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066975",
+        "scenario_id": 294,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066986",
+        "scenario_id": 295,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.066998",
+        "scenario_id": 296,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067009",
+        "scenario_id": 297,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067020",
+        "scenario_id": 298,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067031",
+        "scenario_id": 299,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067042",
+        "scenario_id": 300,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067053",
+        "scenario_id": 301,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067065",
+        "scenario_id": 302,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067076",
+        "scenario_id": 303,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067087",
+        "scenario_id": 304,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067098",
+        "scenario_id": 305,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067109",
+        "scenario_id": 306,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 10,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067120",
+        "scenario_id": 307,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067131",
+        "scenario_id": 308,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067143",
+        "scenario_id": 309,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067159",
+        "scenario_id": 310,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067170",
+        "scenario_id": 311,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067184",
+        "scenario_id": 312,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067195",
+        "scenario_id": 313,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067207",
+        "scenario_id": 314,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067218",
+        "scenario_id": 315,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067230",
+        "scenario_id": 316,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067241",
+        "scenario_id": 317,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067253",
+        "scenario_id": 318,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067264",
+        "scenario_id": 319,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067276",
+        "scenario_id": 320,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 10,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067288",
+        "scenario_id": 321,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067299",
+        "scenario_id": 322,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067311",
+        "scenario_id": 323,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067323",
+        "scenario_id": 324,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067334",
+        "scenario_id": 325,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067346",
+        "scenario_id": 326,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067358",
+        "scenario_id": 327,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067371",
+        "scenario_id": 328,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067383",
+        "scenario_id": 329,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067395",
+        "scenario_id": 330,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067407",
+        "scenario_id": 331,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067419",
+        "scenario_id": 332,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067431",
+        "scenario_id": 333,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067443",
+        "scenario_id": 334,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067455",
+        "scenario_id": 335,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067467",
+        "scenario_id": 336,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067479",
+        "scenario_id": 337,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067490",
+        "scenario_id": 338,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067502",
+        "scenario_id": 339,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067514",
+        "scenario_id": 340,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067526",
+        "scenario_id": 341,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067538",
+        "scenario_id": 342,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067550",
+        "scenario_id": 343,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067562",
+        "scenario_id": 344,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067574",
+        "scenario_id": 345,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067586",
+        "scenario_id": 346,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067598",
+        "scenario_id": 347,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067610",
+        "scenario_id": 348,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067623",
+        "scenario_id": 349,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067635",
+        "scenario_id": 350,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067648",
+        "scenario_id": 351,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067660",
+        "scenario_id": 352,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067673",
+        "scenario_id": 353,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067685",
+        "scenario_id": 354,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067698",
+        "scenario_id": 355,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067710",
+        "scenario_id": 356,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067723",
+        "scenario_id": 357,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067736",
+        "scenario_id": 358,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067748",
+        "scenario_id": 359,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067762",
+        "scenario_id": 360,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067774",
+        "scenario_id": 361,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067790",
+        "scenario_id": 362,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067803",
+        "scenario_id": 363,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067816",
+        "scenario_id": 364,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067829",
+        "scenario_id": 365,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067842",
+        "scenario_id": 366,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067854",
+        "scenario_id": 367,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067867",
+        "scenario_id": 368,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067880",
+        "scenario_id": 369,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067893",
+        "scenario_id": 370,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067906",
+        "scenario_id": 371,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067919",
+        "scenario_id": 372,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067933",
+        "scenario_id": 373,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067946",
+        "scenario_id": 374,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067959",
+        "scenario_id": 375,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067971",
+        "scenario_id": 376,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067984",
+        "scenario_id": 377,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.067997",
+        "scenario_id": 378,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068010",
+        "scenario_id": 379,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068023",
+        "scenario_id": 380,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068036",
+        "scenario_id": 381,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068049",
+        "scenario_id": 382,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068062",
+        "scenario_id": 383,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068075",
+        "scenario_id": 384,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068088",
+        "scenario_id": 385,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068101",
+        "scenario_id": 386,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068114",
+        "scenario_id": 387,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068127",
+        "scenario_id": 388,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068140",
+        "scenario_id": 389,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068155",
+        "scenario_id": 390,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068168",
+        "scenario_id": 391,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068182",
+        "scenario_id": 392,
+        "ai_decision": "BLOCK",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068196",
+        "scenario_id": 393,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068209",
+        "scenario_id": 394,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068223",
+        "scenario_id": 395,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068236",
+        "scenario_id": 396,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068249",
+        "scenario_id": 397,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068263",
+        "scenario_id": 398,
+        "ai_decision": "BLOCK",
+        "final_decision": "BLOCK",
+        "risk_score": 70,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068276",
+        "scenario_id": 399,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    },
+    {
+        "timestamp": "2026-09-05T04:25:14.068290",
+        "scenario_id": 400,
+        "ai_decision": "APPROVE",
+        "final_decision": "APPROVE",
+        "risk_score": 0,
+        "reasons": []
+    }
+]
